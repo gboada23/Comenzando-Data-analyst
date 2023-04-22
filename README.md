@@ -1,2 +1,2 @@
 # Data-analyst
-Aquí podre montar mis trabajos de análisis de datos y visualizaciones y una predicion cada proyecto lo conforma su carpeta sin embargo fueron mis primeros analisis usando python donde en cualquier momento los mejorare
+Aquí podre montar mis trabajos de análisis de datos, visualizaciones con los datos del covid en colombia y tambien uno de el analisis de la calidad del vino llegando a conclusiones realizando 2 modelos diferentes
